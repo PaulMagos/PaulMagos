@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @PaulMagos
-- 👀 I’m interested in AI and Software Engineering
-- 🌱 I'm in actual holding of many programming skills.
+- 📫 You can reach me here: [EMAIL](paulmagos@icloud.com)
+- 👀 I’m studing AI and interested in Software Engineering.
 - 💞️ I’m looking to collaborate on any kind of interesting projects
-- 👨‍🎓 You can see all my University Projects [here](https://github.com/PaulMagosUni)
-- 📫 You can reach me here: paulmagos@icloud.com
+- 🌱 I'm in actual knowledge of many programming skills (C, C++, Java, Python).
+- 👨‍🎓 You can see all my University Projects [UNIProjects](https://github.com/PaulMagosUni)
 
 <!---
 PaulMagos/PaulMagos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
