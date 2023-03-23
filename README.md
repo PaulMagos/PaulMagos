@@ -2,6 +2,7 @@
 - 👀 I’m interested in AI and Software Engineering
 - 🌱 I'm in actual holding of many programming skills.
 - 💞️ I’m looking to collaborate on any kind of interesting projects
+- 📫 You can see all my University Projects [here](https://github.com/PaulMagosUni)
 - 📫 You can reach me here: paulmagos@icloud.com
 
 <!---
