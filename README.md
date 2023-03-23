@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PaulMagos,
-- 📫 You can reach me here: paulmagos@icloud.com;
+- 📫 You can reach me here: paulmagos [at] icloud [dot] com;
 - 👀 I’m studing AI and interested in Software Engineering;
 - 👨‍🎓 You can see all my University Projects here: [UNIProjects](https://github.com/PaulMagosUni);
 - 💞️ I’m looking to collaborate on any kind of interesting projects;
