@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PaulMagos
 - 👀 I’m interested in AI and Software Engineering
-- 🌱 I'm in actual holding of distinguishing programming skills (C, C++, Java, Python).
+- 🌱 I'm in actual holding of many programming skills.
 - 💞️ I’m looking to collaborate on any kind of interesting projects
 - 📫 You can reach me here: paulmagos@icloud.com
 
