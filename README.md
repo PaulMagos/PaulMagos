@@ -8,7 +8,8 @@
 <!-- ### 🔝 Top Contributed Repo -->
 <!-- ![](https://github-contributor-stats.vercel.app/api?username=PaulMagos&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
-[![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulMagosUni)]
+[![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulMagos&show_icons=true&theme=transparent)
+)]
 <!-- ### 😂 Random Dev Meme -->
 <!-- <img src="https://rm.up.railway.app/" width="512px"/> -->
 
