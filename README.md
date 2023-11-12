@@ -7,6 +7,7 @@
 
 <!-- ### 🔝 Top Contributed Repo -->
 <!-- ![](https://github-contributor-stats.vercel.app/api?username=PaulMagos&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
+```html
 <div>
 ![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulMagos&show_icons=true&theme=transparent&hide_border=true)
 </div>
@@ -15,6 +16,7 @@
 <div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 </div>
+```
 ---
 [![](https://visitcount.itsvg.in/api?id=PaulMagos&icon=0&color=0)](https://visitcount.itsvg.in)
 
