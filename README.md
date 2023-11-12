@@ -10,7 +10,9 @@
 Top Contributed             |  Top Languates
 :-------------------------:|:-------------------------:
 ![Paul's GitHub stats](https://githum-readme-stats-self-hosted.vercel.app/api?username=PaulMagos&show_icons=true&theme=transparent&hide_border=true)  |  ![Top Langs](https://githum-readme-stats-self-hosted.vercel.app/api/top-langs/?username=PaulMagos&theme=transparent&hide_border=true&hide_progress=false)
-
+WakaTime            |  Top Languates
+:-------------------------:|:-------------------------:
+![Harlok's WakaTime stats](https://githum-readme-stats-self-hosted.vercel.app/api/wakatime?username=PaulMagos&theme=transparent&hide_border=true)
 
 <!-- ### 😂 Random Dev Meme -->
 <!-- <img src="https://rm.up.railway.app/" width="512px"/> -->
