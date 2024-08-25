@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @PaulMagos,<br>📫 You can reach me here: paulmagos [at] icloud [dot] com;<br>👀 I’m studing AI and interested in Software Engineering;<br>👨‍🎓 You can see all my University Projects here: PaulMagosUni;<br>💞️ I’m looking to collaborate on any kind of interesting projects;<br>🌱 I'm in actual knowledge of many programming skills (C, C++, Java, Python).
+👋 Hi, I’m @PaulMagos,<br>📫 You can reach me here: paulmagos [at] icloud [dot] com;<br>👀 I’m studing AI and interested in Software Engineering;<br>👨‍🎓 You can see all my University Projects here: [PaulMagosUni](https://github.com/orgs/PaulMagosUni/repositories);<br>💞️ I’m looking to collaborate on any kind of interesting projects;<br>🌱 I'm in actual knowledge of many programming skills (C, C++, Java, Python).
 
 
 # 💻 Tech Stack:
