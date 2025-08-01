@@ -10,7 +10,7 @@
 <!-- ![](https://github-contributor-stats.vercel.app/api?username=PaulMagos&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 Top Contibutions           | Top Languages
 :-------------------------:|:-------------------------:
-![Paul's GitHub stats](https://readmestats.paulmagos.com/api?username=PaulMagos&show_icons=true&theme=ambient_gradient&hide_border=true&show=reviews,prs_merged,prs_merged_percentage)  |  ![Top Langs](https://readmestats.paulmagos.com/api/top-langs/?username=PaulMagos&theme=ambient_gradient&hide_border=true&hide_progress=false)
+![Paul's GitHub stats](https://readmestats.paulmagos.com/api?username=PaulMagos&show_icons=true&theme=ambient_gradient&hide_border=true&show=reviews,prs_merged,prs_merged_percentage)  |  ![Top Langs](https://readmestats.paulmagos.com/api/top-langs/?usernames=PaulMagos,paulmagosION&theme=ambient_gradient&hide_border=true&hide_progress=false)
 
 <!--![Harlok's WakaTime stats](https://githum-readme-stats-self-hosted.vercel.app/api/wakatime?username=PaulMagos&theme=transparent&hide_border=true)-->
 
