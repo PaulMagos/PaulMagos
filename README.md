@@ -15,6 +15,6 @@ Top Contibutions           | Top Languages
 <!--![Harlok's WakaTime stats](https://githum-readme-stats-self-hosted.vercel.app/api/wakatime?username=PaulMagos&theme=transparent&hide_border=true)-->
 
 <!-- ### 😂 Random Dev Meme -->
-<!-- <img src="https://rm.up.railway.app/" width="512px"/> -->
+<img src="https://rm.up.railway.app/" width="512px"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
