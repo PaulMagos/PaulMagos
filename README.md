@@ -3,7 +3,7 @@
 👋 Hey, I’m Paul.  
 🎛️ AI/Software engineer & former DJ/producer.  
 🧠 I like turning messy data + models into usable tools, agents, and interfaces.  
-📍 Based in Germany, remote-friendly.  
+📍 Based in Italy, remote-friendly.  
 📫 paulmagos [at] icloud [dot] com
 
 Lately I’ve been:
