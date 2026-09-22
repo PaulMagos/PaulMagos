@@ -71,4 +71,4 @@ I care about:
 
 Top Contibutions           | Top Languages
 :-------------------------:|:-------------------------:
-![Paul's GitHub stats](https://readmestats.paulmagos.com/api?username=PaulMagos&show_icons=true&theme=ambient_gradient&hide_border=true&show=reviews,prs_merged,prs_merged_percentage)  |  ![Top Langs](https://readmestats.paulmagos.com/api/top-langs/?username=PaulMagos&include_orgs=true&theme=ambient_gradient&hide_border=true&hide_progress=false)
+![Paul's GitHub stats](https://readmestats.paulmagos.com/api?username=PaulMagos&include_orgs=true&show_icons=true&theme=ambient_gradient&hide_border=true&show=reviews,prs_merged,prs_merged_percentage)  |  ![Top Langs](https://readmestats.paulmagos.com/api/top-langs/?username=PaulMagos&include_orgs=true&theme=ambient_gradient&hide_border=true&hide_progress=false)
